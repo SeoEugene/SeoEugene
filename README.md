@@ -41,7 +41,7 @@ and then.... I'll taliking about ChatGPT 🤞
   <li>컴퓨터활용능력 2급</li>
   <li>✔곧 있을 웹 디자인 기능사</li>
 </ul>
-<p></p>
+<p>and I got some certification about accounting</p>
 <!--
 **SeoEugene/SeoEugene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
