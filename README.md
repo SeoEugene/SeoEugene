@@ -33,6 +33,15 @@ Let's scroll down.
 <br>
 and then.... I'll taliking about ChatGPT 🤞
 
+<h2>My Certification List</h2>
+<ul>
+  <li>정보처리산업기사</li>
+  <li>SQLD (SQL개발자)</li>
+  <li>리눅스 마스터 2급</li>
+  <li>컴퓨터활용능력 2급</li>
+  <li>✔곧 있을 웹 디자인 기능사</li>
+</ul>
+<p></p>
 <!--
 **SeoEugene/SeoEugene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
