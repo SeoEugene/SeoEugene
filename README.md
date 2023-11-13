@@ -1,6 +1,6 @@
 ### Hi there \(@^0^@)/
 
-사용 가능한 언어
+<h2>사용 가능한 언어</h2><br>
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
 <!--
