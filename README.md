@@ -1,7 +1,10 @@
 ### Hi there \(@^0^@)/
-
+I'm Eugene. This is me.
+Let's scroll down.
+<Br>
 <h2>사용 가능한 언어</h2><br>
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Vue-%4FC08D?style=for-the-badge&logo=Vue&logoColor=black">
 
 <!--
 **SeoEugene/SeoEugene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
