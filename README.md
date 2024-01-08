@@ -39,7 +39,7 @@ and then.... I'll taliking about ChatGPT 🤞
   <li>SQLD (SQL개발자)</li>
   <li>리눅스 마스터 2급</li>
   <li>컴퓨터활용능력 2급</li>
-  <li>✔곧 있을 웹 디자인 기능사</li>
+  <li>웹 디자인 기능사</li>
 </ul>
 <p>and I got some certification about accounting</p>
 <!--
